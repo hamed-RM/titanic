@@ -1,1 +1,1 @@
-# implementation of kaggle titanic chalange 
+# implementation of kaggle titanic challenge 
