@@ -1,1 +1,1 @@
-# titanic
+# implementation of kaggle titanic chalange 
